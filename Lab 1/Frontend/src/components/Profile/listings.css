@@ -1,0 +1,30 @@
+.flex-container7{
+    display: flex;
+    flex-direction: column;
+    background-color: #b4b2b2;
+    
+}
+
+.flex-container7 > div {
+    background-color: #f8f8f8;
+    width: 1100px;
+    margin: 15px;
+    text-align: center;
+    line-height: 25px;
+    font-size: 18px;
+  }
+
+  .displaypropimage{
+      height:500px;
+  }
+
+  .listingimage1{
+      height: 350px;
+      width: 450px;
+
+  }
+
+  .carouselprop{
+    height: 700px;
+
+  }
